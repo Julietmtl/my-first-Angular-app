@@ -17,7 +17,7 @@ import { SuccessAlertComponent } from "./success-alert/success-alert.component";
     SuccessAlertComponent
   ],
   imports: [
-    BrowserModule,
+    BrowserModule
   ],
   providers: [],
   bootstrap: [AppComponent]
